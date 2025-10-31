@@ -34,7 +34,7 @@ const App: React.FC = () => {
         </div>
       </main>
       <footer className="text-center py-4 text-xs text-slate-500">
-        <p>© 2024 Vệ Sĩ Não Bộ. Được trang bị bởi AI.</p>
+        <p>© 2024 Brain Rot. Được trang bị bởi AI.</p>
       </footer>
     </div>
   );
